@@ -207,19 +207,14 @@ button:active {
     .contener {
 
         width: 100vh;
-        height: 50vw;
+        height: 100vw;
         padding: 0;
-        margin: auto;
+        margin: 0;
     }
 
     section {
         display: block;
-        text-align: center;
-        height: auto;
-        width: 100%;
-        position: static;
-        margin-left: 50px;
-        margin: 40px;
+        
     }
 
     figure {
@@ -233,7 +228,7 @@ button:active {
 
     h1 {
         font-size: 70px;
-        margin-left: 392px;
+        margin-left: 325px;
         width: center;
         margin-top: 20px;
         margin-bottom: 10%;
@@ -244,7 +239,7 @@ button:active {
 
     .foto-meninas {
         position: inherit;
-        margin-left: 148px;
+        margin-left:  140px;
         top: 1214px;
 
     }
@@ -262,11 +257,13 @@ button:active {
         left: 208px;
         top: 1214px;
         top: 1104px;
-        margin-left: 91px;
+        margin-left: 70px;
+        width: 470px;
+        height: 278px;
     }
 
     .foto-1 {
-        margin-left: 124px;
+        margin-left: 110px;
     }
 
     .foto-2 {
@@ -287,11 +284,10 @@ button:active {
 
     button {
 
-        position: static;
+        position:absolute;
         height: 80px;
         width: 300px;
-        margin-top: 1330px;
-        margin-left: 406px;
+        margin-top: 777px;
+        margin-left: -396px;
     }
-
 }
