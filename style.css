@@ -209,7 +209,7 @@ button:active {
         width: 100vh;
         height: 50vw;
         padding: 0;
-        margin: 0;
+        margin: auto;
     }
 
     section {
