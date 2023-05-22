@@ -203,7 +203,7 @@ button:active {
     opacity: calc(.8);
 }
 
-@media  (max-width: 1338px) {
+@media  (max-width: 700px) {
     .contener {
 
         width: 100vh;
